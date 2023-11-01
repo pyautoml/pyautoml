@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I love machine learning and automation :)</h3>
+<h3 align="center">I work with machine learning and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p>
 
