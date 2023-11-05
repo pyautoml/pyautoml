@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p>
 
-- 🔭 I’m currently working on [universal private mailbox connectors](https://github.com/pyautoml/automation/tree/main/universal_mailbox)
+- 🔭 I’m currently working on [universal private mailbox connectors](https://github.com/pyautoml/automation/tree/main/universal_mailbox) and [newsletter data scraper](https://github.com/pyautoml/automation/tree/main/news_fetch/newsletter) Both are parts of a bigger NLP project
 
-- 👯 I’m looking to collaborate on **NLP projects**
+- 🐆 I’m looking to collaborate on **NLP projects**
 
 - 💬 Ask me about **NLP and deep learnign or 🐱**
 
