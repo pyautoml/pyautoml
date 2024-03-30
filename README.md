@@ -5,7 +5,7 @@
 
 - My Medium channel: [Running models with Ollama - Step-by-step guide](https://medium.com/@gabrielrodewald/running-models-with-ollama-step-by-step-60b6f6125807)
   
-- 🔭 I’m currently working on [On-prem open source RAG with agents]([https://github.com/pyautoml/automation/tree/main/universal_mailbox](https://github.com/pyautoml/machine_learning)) and [custom email automataion](https://github.com/pyautoml/automation) Both are parts of a bigger NLP project
+- 🔭 I’m currently working on an [on-prem open source RAG with agents](https://github.com/pyautoml/machine_learning) and [custom email automataion](https://github.com/pyautoml/automation) Both are parts of a bigger NLP project
 
 - 🐆 I’m looking to collaborate on **NLP projects**
 
