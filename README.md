@@ -6,7 +6,7 @@
 - Medium channel: [Running models with Ollama - Step-by-step guide](https://medium.com/@gabrielrodewald/running-models-with-ollama-step-by-step-60b6f6125807)
   
 - 🔭 I’m currently working on:
-1. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy))
+1. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy)
 2. [on-prem open source RAG with agents](https://github.com/pyautoml/machine_learning)
 3. [custom email automataion](https://github.com/pyautoml/automation)
 
