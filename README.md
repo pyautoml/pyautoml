@@ -6,6 +6,7 @@
 - Medium channel: [Running models with Ollama - Step-by-step guide](https://medium.com/@gabrielrodewald/running-models-with-ollama-step-by-step-60b6f6125807)
   
 - 🔭 I’m currently working on:
+1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
 1. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
 2. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
 3. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
