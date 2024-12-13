@@ -9,8 +9,9 @@
 3. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
 4. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
 <br>
+
 Check out some of my recent Medium articles:<br>
-1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence)
+1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) ✅
 2. 
 
 
