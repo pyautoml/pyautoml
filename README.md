@@ -2,7 +2,8 @@
 <h3 align="center">I work with machine learning and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p> 
-- 🔭 I’m currently working on:
+
+🔭 I’m currently working on:<br>
 1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
 2. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
 3. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
