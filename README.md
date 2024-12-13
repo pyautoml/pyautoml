@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p>
 Check out some of my recent articles:
-- Replace paid models with open-source using Ollama: [Running models with Ollama - Step-by-step guide](https://medium.com/p/60b6f6125807)
-- How to create custom tools for agents: [Craft Custom Tools for Agents in Ollama, OpenAI, and More](https://medium.com/p/d13103cf1bab)
-- Build intuition behind text vectorization: [From Basic Counts to Contextual Embeddings: A Journey Through Text Vectorization (Part 1)](https://medium.com/p/98f94a086622)
+- [Running models with Ollama - Step-by-step guide](https://medium.com/p/60b6f6125807)
+- [Craft Custom Tools for Agents in Ollama, OpenAI, and More](https://medium.com/p/d13103cf1bab)
+- [From Basic Counts to Contextual Embeddings: A Journey Through Text Vectorization](https://medium.com/p/98f94a086622)
   
 - 🔭 I’m currently working on:
 1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
