@@ -4,12 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p> 
 - 🔭 I’m currently working on:
 1. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
-1. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
-2. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
-3. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
-
-- Check out some of my recent Medium articles:
-1. [Running models with Ollama](https://medium.com/p/60b6f6125807)
+2. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
+3. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
+4. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
 
 
 <h3 align="left">Languages and Tools:</h3>
