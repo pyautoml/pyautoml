@@ -8,6 +8,9 @@
 2. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
 3. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
 4. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
+<br>
+Check out some of my recent Medium articles:<br>
+1. [Running models with Ollama](https://medium.com/p/60b6f6125807)
 
 
 <h3 align="left">Languages and Tools:</h3>
