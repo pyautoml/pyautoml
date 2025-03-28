@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p> 
 
 🔭 Check this out:<br>
-1. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
-2. [Python Modules Dependency Checker](https://github.com/pyautoml/python-module-dependency) ✅
-3. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
-4. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
-5. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
+1. [IP maskin/circuit rotator with Tor](https://github.com/pyautoml/circuit-rotator) ✅
+2. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
+3. [Python Modules Dependency Checker](https://github.com/pyautoml/python-module-dependency) ✅
+4. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
+5. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
+6. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
 <br>
 
 Check out some of my recent Medium articles:<br>
