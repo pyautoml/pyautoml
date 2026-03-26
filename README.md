@@ -33,7 +33,7 @@ Cybersecurity, machine learning, and AI infrastructure.<br>I build tools that de
 
 ### [probe](https://github.com/pyautoml/probe)
 
-Zero-trust Python package scanner. Detects malicious behavior before it reaches your machine — static analysis, metadata checks, and sandboxed runtime detection with honeypot secrets.
+Zero-trust Python package scanner. Detects malicious behavior before it reaches your machine - static analysis, metadata checks, and sandboxed runtime detection with honeypot secrets.
 
 **Zero external dependencies.** Uses only Python 3.11+ stdlib.
 
@@ -47,12 +47,12 @@ Zero-trust Python package scanner. Detects malicious behavior before it reaches 
 
 ## Writing
 
-Articles on ML, LLMs, and infrastructure — [Medium](https://medium.com/@gabrielrodewald)
+Articles on ML, LLMs, and infrastructure - [Medium](https://medium.com/@gabrielrodewald)
 
 | Article |
 |:---|
 | [Run SearxNG Locally To Keep Your AI Data Private](https://medium.com/@gabrielrodewald/run-searxng-locally-to-keep-your-ai-data-private-free-create-custom-agentic-tools-e8f4b5592082) |
-| [Running Models with Ollama — Step-by-Step Guide](https://medium.com/p/60b6f6125807) |
+| [Running Models with Ollama - Step-by-Step Guide](https://medium.com/p/60b6f6125807) |
 | [Craft Custom Tools for Agents in Ollama, OpenAI, and More](https://medium.com/p/d13103cf1bab) |
 | [From Basic Counts to Contextual Embeddings: Text Vectorization](https://medium.com/p/98f94a086622) |
 
