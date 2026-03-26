@@ -40,15 +40,6 @@ Zero-trust Python package scanner. Detects malicious behavior before it reaches 
 `supply chain security` `sandbox` `strace` `bubblewrap`
 
 </td>
-<td width="50%" valign="top">
-
-### [code2doc](https://github.com/pyautoml/code2doc)
-
-AI-powered documentation generator using a multi-agent writer/reviewer pipeline. Reads your codebase, generates structured docs automatically.
-
-`llm agents` `documentation` `automation`
-
-</td>
 </tr>
 </table>
 
