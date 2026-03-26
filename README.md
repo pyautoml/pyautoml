@@ -1,28 +1,111 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I work with machine learning, cybersecurity, data scraping, and general automation.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p> 
-
-🔭 Check this out:<br>
-1. [Code2Doc Agentic documentation generator](https://github.com/pyautoml/code2doc) ✅
-2. [Checkpoint](https://github.com/pyautoml/checkpoint) ✅
-3. [Custom tools for LLM Agents run on WebOpenUI](https://github.com/pyautoml/local_agents) 🔄
-4. [IP masking/circuit rotator with Tor](https://github.com/pyautoml/circuit-rotator) ✅
-5. [Gmail Python Wrapper](https://github.com/pyautoml/GmailPy) ✅
-6. [Python Modules Dependency Checker](https://github.com/pyautoml/python-module-dependency) ✅
-7. [AI | LLM | RAG](https://github.com/pyautoml/Artificial-Intelligence) 🔄
-8. [Machine Learning Solutions](https://github.com/pyautoml/Machine-Learning) 🔄
-9. [fastArxiv as part of custom LLM tools](https://github.com/pyautoml/fastArxiv) 🔄
 <br>
 
-Check out some of my recent Medium articles:<br>
-1. [Run SearxNG Locally To Keep Your AI Data Private & Free 🚀 — Create Custom Agentic Tools](https://medium.com/@gabrielrodewald/run-searxng-locally-to-keep-your-ai-data-private-free-create-custom-agentic-tools-e8f4b5592082) ⬅️
-2. [Running models with Ollama - Step-by-step guide](https://medium.com/p/60b6f6125807) ⬅️
-3. [Craft Custom Tools for Agents in Ollama, OpenAI, and More](https://medium.com/p/d13103cf1bab) ⬅️
-4. [From Basic Counts to Contextual Embeddings: A Journey Through Text Vectorization](https://medium.com/p/98f94a086622) ⬅️
+# Security / AI Engineer
+
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyautoml&show_icons=true&locale=en&layout=compact" alt="pyautoml" /></p>
+Cybersecurity, machine learning, and AI infrastructure.<br>I build tools that defend, analyze, and automate.
 
+<br>
+
+<a href="#projects">Projects</a>&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;<a href="#writing">Writing</a>&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;<a href="#stack">Stack</a>
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-1A191A?style=flat-square&logo=python&logoColor=EDE5DA)
+![Bash](https://img.shields.io/badge/Bash-1A191A?style=flat-square&logo=gnubash&logoColor=EDE5DA)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A191A?style=flat-square&logo=pytorch&logoColor=EDE5DA)
+![Docker](https://img.shields.io/badge/Docker-1A191A?style=flat-square&logo=docker&logoColor=EDE5DA)
+![Linux](https://img.shields.io/badge/Linux-1A191A?style=flat-square&logo=linux&logoColor=EDE5DA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A191A?style=flat-square&logo=postgresql&logoColor=EDE5DA)
+
+</div>
+
+<br>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [probe](https://github.com/pyautoml/probe)
+
+Zero-trust Python package scanner. Detects malicious behavior before it reaches your machine — static analysis, metadata checks, and sandboxed runtime detection with honeypot secrets.
+
+**Zero external dependencies.** Uses only Python 3.11+ stdlib.
+
+`supply chain security` `sandbox` `strace` `bubblewrap`
+
+</td>
+<td width="50%" valign="top">
+
+### [code2doc](https://github.com/pyautoml/code2doc)
+
+AI-powered documentation generator using a multi-agent writer/reviewer pipeline. Reads your codebase, generates structured docs automatically.
+
+`llm agents` `documentation` `automation`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Writing
+
+Articles on ML, LLMs, and infrastructure — [Medium](https://medium.com/@gabrielrodewald)
+
+| Article |
+|:---|
+| [Run SearxNG Locally To Keep Your AI Data Private](https://medium.com/@gabrielrodewald/run-searxng-locally-to-keep-your-ai-data-private-free-create-custom-agentic-tools-e8f4b5592082) |
+| [Running Models with Ollama — Step-by-Step Guide](https://medium.com/p/60b6f6125807) |
+| [Craft Custom Tools for Agents in Ollama, OpenAI, and More](https://medium.com/p/d13103cf1bab) |
+| [From Basic Counts to Contextual Embeddings: Text Vectorization](https://medium.com/p/98f94a086622) |
+
+<br>
+
+## Stack
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Security
+
+Static analysis, sandboxing, supply chain defense, threat modeling, strace, bubblewrap
+
+</td>
+<td width="33%" valign="top">
+
+### ML / AI
+
+PyTorch, scikit-learn, LLM tooling, Ollama, SGLang, vLLM, RAG pipelines
+
+</td>
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Docker, Nginx, Linux, PostgreSQL, Redis, RabbitMQ, Bash
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://medium.com/@gabrielrodewald">
+  <img src="https://img.shields.io/badge/Medium-1A191A?style=flat-square&logo=medium&logoColor=EDE5DA" alt="Medium">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/gabriel-rodewald">
+  <img src="https://img.shields.io/badge/LinkedIn-1A191A?style=flat-square&logo=linkedin&logoColor=EDE5DA" alt="LinkedIn">
+</a>
+
+<br><br>
+
+</div>
