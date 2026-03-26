@@ -31,9 +31,11 @@ Cybersecurity, machine learning, and AI infrastructure.<br>I build tools that de
 <tr>
 <td width="50%" valign="top">
 
-### [probe](https://github.com/pyautoml/probe)
+### [probe](https://github.com/pyautoml/sprobe)
 
 Zero-trust Python package scanner. Detects malicious behavior before it reaches your machine - static analysis, metadata checks, and sandboxed runtime detection with honeypot secrets.
+
+`pip install sprobe`
 
 **Zero external dependencies.** Uses only Python 3.11+ stdlib.
 
